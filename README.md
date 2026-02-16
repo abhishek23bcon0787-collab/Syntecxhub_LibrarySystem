@@ -4,7 +4,7 @@
 This project is a console-based application designed to streamline library operations. It provides a secure and efficient way to manage book inventories, track issued/returned books, and maintain data across sessions.
 
 ## 🏢 Internship Project
-This project was developed during my internship at Syntacxhub. It demonstrates the practical application of Core Java concepts in building a functional management tool.
+This project was developed during my internship at Syntecxhub. It demonstrates the practical application of Core Java concepts in building a functional management tool.
 
 ## ✨ Key Features
 - **🔐 Admin Security:** Mandatory login system to protect library data.
